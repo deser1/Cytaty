@@ -1,10 +1,6 @@
 <?php
-
-class User {
-
+  class User{
     private $id;
     private $db;
-
-}
-
+  }
 ?>
