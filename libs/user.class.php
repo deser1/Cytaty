@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 
 class User {
 
@@ -16,4 +17,10 @@ class User {
 
 }
 
+=======
+  class User{
+    private $id;
+    private $db;
+  }
+>>>>>>> Cytaty/master
 ?>
