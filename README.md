@@ -3,8 +3,8 @@
 CMS
 Version 0.1
 
-#Licensed 
+# Licensed 
 GNU GPL
 
-#About
+# About
 Is a project to Cytaty and write archive all question star people in the world.
